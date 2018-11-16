@@ -1,12 +1,13 @@
 # Proyecto-final_-ICO1
 
-IDEA 1. 
+RESULTADOS DEL PROCESO ELECTORAL FEDERAL 2017-2018 EN LA CIUDAD DE MÉXICO: ANÁLISIS DE CORRELACIÓN ENTRE EL NIVEL SOCIOECONÓMICO DE LAS COLONIAS y PUEBLOS ORIGINARIOS CON EL SENTIDO DE SU VOTO.  
 
-Resumen: Análisis de correlación entre el número de casos de diabetes presentados en niños y adolescentes de la Ciudad de México y el Índice de Desarrollo Social de la colonia a la que pertenecen.
+Planteamiento de problema: 
 
-Hipótesis: Las colonias y barrios originarios de la Ciudad de México con mayor número de casos registrados de niños y adolescentes con diabetes pertenecerán a los estratos más bajos del Índice de Desarrollo Social. 
+De acuerdo con resultados de la casa encuestadora Parametría, citados por Alto Nivel (2018), "la escolaridad y el salario son indicativos de que el perfil de Lopéz Obrador ha cambiado respecto a las dos elecciones presidenciales anteriores en las que participó como candidato, en 2006 y en 2012”.
+
+Los resultados de Parametría, realizado con base en una encuesta de salida levantada el mismo 1 de julio, afirman que el voto que dio ventaja al ahora presidente virtual provino de clase media y no de la gente de menores ingresos como en contiendas anteriores. 
+
+El presente trabajo pretende determinar si esta fluctuación del voto también se presentó en la Ciudad de México. Para esto, se realizará un mapeo que relacione el nivel de desarrollo social de dicha colonia o pueblo originario con el candidato presidencial ganador en las secciones electorales que la conformen. 
 
 
-Objetivo: Aterrizar el estudio realizado por The Economist "As rich children slim down, poor ones are getting fatter" en el contexto de la Ciudad de México. Verificar si, de igual manera que en Inglaterra, el sobrepreso y la obesidad, y en consecuencia, la diabetes, se presentan con mayor frecuencia en niños y adolescentes viviendo en altos niveles de marginalidad. 
-
-Necesidades: Datos actualizados al 2015 de la Medición de Desarrollo Social por Colonia realizado por la Secretaría de Desarrollo Social de la CDMX.
