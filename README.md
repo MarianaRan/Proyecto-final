@@ -1,13 +1,12 @@
 # Proyecto-final_-ICO1
 
-RESULTADOS DEL PROCESO ELECTORAL FEDERAL 2017-2018 EN LA CIUDAD DE MÉXICO: ANÁLISIS DE CORRELACIÓN ENTRE EL NIVEL SOCIOECONÓMICO DE LAS COLONIAS y PUEBLOS ORIGINARIOS CON EL SENTIDO DE SU VOTO.  
+Semáforo Nutricional. 
 
-Planteamiento de problema: 
+El semáforo nutriconal es una forma de etiquetado que indica si las cantidades de azúcar, sodio y grasas saturadas de los productos son altas, medias o bajas. Por medio de un sistema de colores, el etiquetado de semáforo nutricional muestra en rojo si las cantidades son altas, a manera de advertencia; en amarillo si son medias, y en verde, si son bajas y es conveniente consumir.
 
-De acuerdo con resultados de la casa encuestadora Parametría, citados por Alto Nivel (2018), "la escolaridad y el salario son indicativos de que el perfil de Lopéz Obrador ha cambiado respecto a las dos elecciones presidenciales anteriores en las que participó como candidato, en 2006 y en 2012”.
+El sistema fue adoptado por diferentes países en busca de fortalecer su combate al sobrepeso y obesidad: Francia, Alemania, Portugal, Reino Unido, Corea del Sur, Turquía, Ecuador, Colombia, Brasil, etc. 
 
-Los resultados de Parametría, realizado con base en una encuesta de salida levantada el mismo 1 de julio, afirman que el voto que dio ventaja al ahora presidente virtual provino de clase media y no de la gente de menores ingresos como en contiendas anteriores. 
+El sistema de semáforo nutricional se caracteriza por ser amigable con el usuario: brinda la información nutrimental de manera rápida, intuitiva y sin necesidad de tener conocimientos técnicos previos sobre nutrición. En cambio, el sistema de etiquetado frontal, que actualmente tenemos en México, sólo muestra números y porcentajes que no cobran sentido al consumidor; sin un conocimiento previo de nutrición, el usuario no puede dimensionar si los porcentajes que tiene el producto son saludables o no. 
 
-El presente trabajo pretende determinar si esta fluctuación del voto también se presentó en la Ciudad de México. Para esto, se realizará un mapeo que relacione el nivel de desarrollo social de dicha colonia o pueblo originario con el candidato presidencial ganador en las secciones electorales que la conformen. 
-
+El código Semáforo Nutricional hace que el consumidor ingrese la información nutrimental de sus productos, y el programa le mostrará si los datos que muestra son altos, medios o bajos. 
 
